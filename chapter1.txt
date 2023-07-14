@@ -1,0 +1,25 @@
+the command "code chapter1.txt" is used to open a particular file.
+
+th command "git status is used to find the current files in the staging area."
+
+the "staging area" is the place to start using git on upon the files.
+
+firstly the git is activated using "git init".
+
+to add a file to "staging area" we need to type the command "git add chapter1.txt".
+
+the "commit" command is used to commit the changes and "-m" is used to add the message for commit which is very important.
+
+"git log" is used to to see the coomited changes in the files. 
+
+the command "git add ." is used to add all the files into staging area.
+
+the command "git diff <file_name>" is used to see the difference between the last commit and the recent changes into a file.
+
+the command "git checkout" is used to rollback to previous version of saved file.
+
+the command "git remote add origin <url>" is used to semotely save files on github.
+
+
+
+NOTE:the personal access token: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;
